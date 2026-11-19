@@ -5,7 +5,7 @@
 
 I'm an MSc candidate in Statistics, Economics and Business (Business Analytics curriculum) at the University of Bologna, Italy.
 
-My academic projects focus on turning data into meaningful insights, combining statistical analysis, forecasting, data management and business-oriented problem solving.
+My academic projects focus on turning data into meaningful insights, combining statistical analysis, forecasting, data management and business oriented problem solving.
 
 I'm interested in opportunities in Data Analytics, Business Analytics and Analytics Consulting.
 
